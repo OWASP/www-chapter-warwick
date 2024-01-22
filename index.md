@@ -2,8 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Warwick
-tags: example-tag
-level: 0
+tags: Warwick
 region: Europe
 meetup-group: OWASP-Warwick-Chapter
 country: United Kingdom
