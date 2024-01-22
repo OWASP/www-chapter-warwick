@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Warwick
 tags: example-tag
 level: 0
-
 region: Europe
-
-auto-migrated: 1
 meetup-group: OWASP-Warwick-Chapter
 country: United Kingdom
 postal-code: 
