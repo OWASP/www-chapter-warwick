@@ -8,6 +8,3 @@
 ### Social Links
 * [Twitter](https://twitter.com/OWASPWarwickUK)
 
-### Code Repository
-* [Slides Repo](https://github.com/OWASP/www-chapter-birmingham-uk/tree/master/assets/slides)
-
