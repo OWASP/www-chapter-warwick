@@ -17,7 +17,7 @@ postal-code: CV4 7AL
 OWASP Warwick UK
 -------------
 Welcome to the Warwick UK Chapter homepage. 
-The chapter board is <a href="mailto:miroslaw.malinowski@owasp.org">Mirek Malinowski</a> and <a href="mailto:brian.mcglone@owasp.org">Brian McGlone</a>. 
+The chapter board is <a href="mailto:miroslaw.malinowski@owasp.org">Mirek Malinowski</a>, <a href="mailto:brian.mcglone@owasp.org">Brian McGlone</a> and <a href="mailto:christo.panchev@owasp.org">Christo Panchev</a>. 
 Follow chapter news on [Twitter](https://twitter.com/OWASPWarwickUK) [LinkedIn](https://www.linkedin.com/in/owasp-warwick-972a89300/)
 
 
