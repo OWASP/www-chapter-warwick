@@ -9,14 +9,14 @@ country: United Kingdom
 postal-code: 
 
 ---
-
+<!-- rebuild 001 -->
 
 
 OWASP Warwick UK
 -------------
 Welcome to the Warwick UK Chapter homepage. 
 The chapter board is <a href="mailto:miroslaw.malinowski@owasp.org">Mirek Malinowski</a> and <a href="mailto:brian.mcglone@owasp.org">Brian McGlone</a>. 
-Follow chapter news on [Twitter](https://twitter.com/OWASPWarwickUK) 
+Follow chapter news on [Twitter](https://twitter.com/OWASPWarwickUK) [LinkedIn](https://www.linkedin.com/in/owasp-warwick-972a89300/)
 
 ---
 
@@ -26,6 +26,17 @@ Speaking at OWASP Warwick UK Chapter Events
 #### Call For Speakers
 
 We're always on the look out for speakers, whether from the local area or from anywhere and just in Warwick for business or pleasure -  please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail (See links on the right hand side)
+
+Chapter Supporters
+----------------
+The following are the list of OWASP Corporate Members who have generously aligned themselves with the Warwick chapter, therefore contributing funds to our chapter:
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+    <a href="https://www.veracode.com"><img src="assets/images/warwick_logo.png" alt="Warwick"/></a>
+</td>
+</tr>
+</table>
 
 Next Meeting/Event(s)
 ---------------------
