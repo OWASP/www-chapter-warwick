@@ -47,7 +47,7 @@ OWASP Warwick Chapter meetings are posted on our MeetUp Page:
 
 Please visit  <a href="http://www.meetup.com/OWASP-Warwick">http://www.meetup.com/OWASP-Warwick</a> OWASP Warwick MeetUp site for Warwick Chapter event information.
 
-{% include chapter_events.html group=page.meetup-group %}
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 
 **Code of Conduct**:
