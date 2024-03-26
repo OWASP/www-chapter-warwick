@@ -24,4 +24,3 @@ OWASP Warwick Chapter upcoming events can be found on Meetup:
 
 ---
 {% include chapter_events.html group=page.meetup-group %}
-----
