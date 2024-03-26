@@ -11,7 +11,6 @@ country: United Kingdom
 postal-code: CV4 7AL
 
 ---
-<!-- rebuild 001 -->
 
 
 OWASP Warwick UK
