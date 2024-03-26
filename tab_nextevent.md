@@ -1,12 +1,11 @@
 ---
 
 title: NextEvent
-displaytext: Past Events
+displaytext: Next Event
 layout:  null
 tab: true
 order: 1
 tags: warwick
-
 ---
 
 ## Next Meeting/Event(s)
@@ -23,4 +22,3 @@ OWASP Warwick Chapter upcoming events can be found on Meetup:
 [https://www.meetup.com/OWASP-Warwick/](https://www.meetup.com/OWASP-Warwick/)
 
 ---
-{% include chapter_events.html group=page.meetup-group %}
