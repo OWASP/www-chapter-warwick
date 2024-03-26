@@ -34,7 +34,7 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-    <a href="https://www.veracode.com"><img src="assets/images/warwick_logo-small.jpg" alt="Warwick"/></a>
+    <a href="https://www.veracode.com"><img src="assets/images/warwick-logo-small.jpg" alt="Warwick"/></a>
 </td>
 </tr>
 </table>
