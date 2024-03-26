@@ -3,10 +3,12 @@
 layout: col-sidebar
 title: OWASP Warwick
 tags: Warwick
+level: 3
 region: Europe
-meetup-group: OWASP-Warwick-Chapter
+currency: gbp
+meetup-group: OWASP-Warwick
 country: United Kingdom
-postal-code: 
+postal-code: CV4 7AL
 
 ---
 <!-- rebuild 001 -->
@@ -18,10 +20,9 @@ Welcome to the Warwick UK Chapter homepage.
 The chapter board is <a href="mailto:miroslaw.malinowski@owasp.org">Mirek Malinowski</a> and <a href="mailto:brian.mcglone@owasp.org">Brian McGlone</a>. 
 Follow chapter news on [Twitter](https://twitter.com/OWASPWarwickUK) [LinkedIn](https://www.linkedin.com/in/owasp-warwick-972a89300/)
 
----
 
 Speaking at OWASP Warwick UK Chapter Events
----------------------------------------
+----------------
 
 #### Call For Speakers
 
@@ -33,13 +34,18 @@ The following are the list of OWASP Corporate Members who have generously aligne
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
-    <a href="https://www.veracode.com"><img src="assets/images/warwick_logo.png" alt="Warwick"/></a>
+    <a href="https://www.veracode.com"><img src="assets/images/warwick_logo-small.jpg" alt="Warwick"/></a>
 </td>
 </tr>
 </table>
 
 Next Meeting/Event(s)
 ---------------------
+[//]: # (Comment: When updating the next event info also update the next event tab)
+
+OWASP Warwick Chapter meetings are posted on our MeetUp Page:
+
+Please visit  <a href="http://www.meetup.com/OWASP-Warwick">http://www.meetup.com/OWASP-Warwick</a> OWASP Warwick MeetUp site for Warwick Chapter event information.
 
 {% include chapter_events.html group=page.meetup-group %}
 
