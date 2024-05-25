@@ -10,8 +10,19 @@ tags: warwick
 
 ## Next Meeting/Event(s)
 
-[//]: # (Comment: When updating the next event info also update the homepage)
-TBC
+### Wed, 12 June 2024 18:00 – 21:00 GMT
+International Manufacturing Centre Building (WMG)
+
+We're really excited to be holding the first Warwick OWASP Chapter meetup.
+
+We're using Eventbrite solely to gauge figures for attendance - OWASP meetings are always FREE.
+
+#### TALKS
+\#1: **Welcome to OWASP Warwick** - Brian McGlone (IBM X-Force Red)
+
+\#2: **Exploiting Weaknesses in AI Systems** - Jakub Partyka (LRQA Nettitude)
+
+\#3: **CHERI - Memory safe architecture - what is it, and do we need one?** - Mirek Malinowski (Cyber Security Reaserch Group - WMG)
 
 
 ---
