@@ -1,0 +1,29 @@
+currency: GBP
+leaders:
+  - name: Brian McGlone
+    email: brian.mcglone@owasp.org
+  - name: Miroslaw Malinowski
+    email: miroslaw.malinowsi@owasp.org
+  - name: Christo Panchev
+    email: christo.panchev@owasp.org
+  - name: Daniel Reece
+    email: daniel.reece@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Warwick
+  postal_code: CV4 7AL
+  latitude: 52.3813073
+  longitude: -1.5639569481637439
+meetup_group: OWASP-Warwick
+name: OWASP Warwick
+repositories:
+  - name: www-chapter-warwick
+    url: https://github.com/OWASP/www-chapter-warwick
+    description: OWASP Foundation Web Repository
+tags:
+  - Warwick
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-warwick
